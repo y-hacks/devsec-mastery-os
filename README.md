@@ -2,8 +2,8 @@
 
 A powerful interactive system to track and master:
 
-1.Python
-- Bash
+-Python
+-Bash
 - JavaScript / TypeScript
 - Go
 - Rust
