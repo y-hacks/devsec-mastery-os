@@ -2,7 +2,7 @@
 
 A powerful interactive system to track and master:
 
-- Python
+1.Python
 - Bash
 - JavaScript / TypeScript
 - Go
